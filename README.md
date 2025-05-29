@@ -5,7 +5,6 @@
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/muhammad-hashir-23079733a/
 - Gmail: evilshah71@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love designing and coding
 
 <!---
 TheHashir7/TheHashir7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
