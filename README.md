@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python and exploring new technologies.
 - 💞️ I’m looking to collaborate on open-source projects and web development.
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/muhammad-hashir-23079733a/
-- Gmail: thunderdg34@gmail.com
-- 😄 Pronouns: He/His
+- Gmail: contacthashir9@gmail.com
 
 <!---
 TheHashir7/TheHashir7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
