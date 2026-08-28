@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheHashir7
-- 👀 I’m interested in Development, especially in Python. 
-- 🌱 I’m currently learning Python and exploring new technologies.
+- 👀 I’m interested in Development, especially in HTML, CSS And Next.js. 
+- 🌱 I’m currently learning and exploring new technologies.
 - 💞️ I’m looking to collaborate on open-source projects and web development.
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/muhammad-hashir-23079733a/
 - Gmail: contacthashir9@gmail.com
